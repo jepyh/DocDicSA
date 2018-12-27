@@ -29,4 +29,4 @@ sentiment_words.txt实例：
     ......
 ## 语言技术平台模型
 语言技术平台（Language Technology Platform，LTP）是由哈尔滨工业大学社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统  
-ltp_data下用到ner.model parser.model pos.model三个模型（由于文件>100M，故后两个文件未上传到库请前往[该网址](https://pan.baidu.com/s/1xzvuyutjy4dBLCSTYxXptA)(key:u7l1)自行下载）
+ltp_data下用到ner.model parser.model pos.model三个模型（由于文件>100M，故后两个文件未上传到库，请前往[该网址](http://ltp.ai/download.html)(ltp_data_v3.4.0.zip)自行下载）
