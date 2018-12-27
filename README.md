@@ -30,3 +30,9 @@ sentiment_words.txt实例：
 ## 语言技术平台模型
 语言技术平台（Language Technology Platform，LTP）是由哈尔滨工业大学社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统  
 ltp_data下用到ner.model parser.model pos.model三个模型（由于文件>100M，故后两个文件未上传到库，请前往[该网址](http://ltp.ai/download.html)(ltp_data_v3.4.0.zip)自行下载）
+## 训练结果
+sentiment_score∈(-1,1)   
+
+ sentiment_score<0  | sentiment_score=0   | sentiment_score>0  
+ ---- | ----- | ------   
+ 文章情感表现为负面  | 文章情感表现为中性 | 文章情感表现为正面  
